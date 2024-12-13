@@ -1,2 +1,1 @@
-print("Hello world")
-print("What are you working on ?")
+Print("Hello world")
